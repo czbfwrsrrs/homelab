@@ -5,3 +5,8 @@ terraform {
       }
     }
 }
+
+provider "proxmox" {
+  
+  
+}
